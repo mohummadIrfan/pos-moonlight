@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+*.rar
+
+# Fonts
+*.ttf
+*.otf
+
+# IDEs
+.idea/
+.vscode/
+
+# Python / Django
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+*.log
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Media
+media/
+staticfiles/
+
+# Backups
+*.json
+backups/
+backup/
